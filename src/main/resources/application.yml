@@ -1,0 +1,9 @@
+server:
+  context-path: /
+  port: 8081
+  error:
+    whitelabel:
+      enabled: false
+spring:
+  main:
+    banner-mode: "off"
